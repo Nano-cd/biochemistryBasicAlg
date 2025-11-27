@@ -1,6 +1,3 @@
-好的，遵照您的要求，我为您生成一个详细的 `README.md` 文件。这个文件将全面介绍您提供的C++代码库，解释每个模块的功能、实现逻辑以及如何使用它们。
-
----
 
 # Biochemical Analysis Calculation Engine in C++
 
